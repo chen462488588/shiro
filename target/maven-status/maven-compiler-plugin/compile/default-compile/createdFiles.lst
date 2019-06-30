@@ -1,0 +1,9 @@
+com\chen\model\User.class
+com\chen\model\UserExample$Criteria.class
+com\chen\model\UserExample$GeneratedCriteria.class
+com\chen\model\UserExample$Criterion.class
+com\chen\service\impl\UserServiceImpl.class
+com\chen\model\UserExample.class
+com\chen\controller\UserController.class
+com\chen\dao\UserMapper.class
+com\chen\service\IUserService.class
